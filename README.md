@@ -1,6 +1,6 @@
 # Responsive-landingpage
 
-<img align="center" alt="Codx" width="10" src="_LANDPAGE/images/img9.jpg">
+<img align="center" alt="Codx" width="2000" src="_LANDPAGE/images/img9.jpg">
 
 
 
